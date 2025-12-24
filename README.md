@@ -1,4 +1,4 @@
-# Exercícios em Java
+# Java Exercises
 
-Este repositório contém exercícios desenvolvidos durante meus estudos em Java, com foco em praticar a lógica de programação e os principais conceitos da linguagem.
+This repository contains exercises I developed to practice and reinforce Java programming concepts.
 
